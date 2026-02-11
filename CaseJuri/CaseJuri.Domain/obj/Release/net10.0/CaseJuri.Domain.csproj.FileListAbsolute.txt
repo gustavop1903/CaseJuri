@@ -1,0 +1,11 @@
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/bin/Release/net10.0/CaseJuri.Domain.deps.json
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/bin/Release/net10.0/CaseJuri.Domain.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/bin/Release/net10.0/CaseJuri.Domain.pdb
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/obj/Release/net10.0/CaseJuri.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/obj/Release/net10.0/CaseJuri.Domain.AssemblyInfoInputs.cache
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/obj/Release/net10.0/CaseJuri.Domain.AssemblyInfo.cs
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/obj/Release/net10.0/CaseJuri.Domain.csproj.CoreCompileInputs.cache
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/obj/Release/net10.0/CaseJuri.Domain.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/obj/Release/net10.0/refint/CaseJuri.Domain.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/obj/Release/net10.0/CaseJuri.Domain.pdb
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/obj/Release/net10.0/ref/CaseJuri.Domain.dll

@@ -1,0 +1,3 @@
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/bin/Release/net10.0/linux-x64/publish/CaseJuri.Domain.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/bin/Release/net10.0/linux-x64/publish/CaseJuri.Domain.deps.json
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Domain/bin/Release/net10.0/linux-x64/publish/CaseJuri.Domain.pdb

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CaseJuri.API/CaseJuri.API.csproj" />
+  <Project Path="CaseJuri.Application/CaseJuri.Application.csproj" />
+  <Project Path="CaseJuri.Domain/CaseJuri.Domain.csproj" />
+  <Project Path="CaseJuri.Infrastructure/CaseJuri.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/CaseJuri.Application.deps.json
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/CaseJuri.Application.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/CaseJuri.Application.pdb
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/CaseJuri.Domain.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/CaseJuri.Domain.pdb
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/obj/Release/net10.0/linux-x64/CaseJuri.Application.csproj.AssemblyReference.cache
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/obj/Release/net10.0/linux-x64/CaseJuri.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/obj/Release/net10.0/linux-x64/CaseJuri.Application.AssemblyInfoInputs.cache
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/obj/Release/net10.0/linux-x64/CaseJuri.Application.AssemblyInfo.cs
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/obj/Release/net10.0/linux-x64/CaseJuri.Application.csproj.CoreCompileInputs.cache
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/obj/Release/net10.0/linux-x64/CaseJuri.7B8536C2.Up2Date
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/obj/Release/net10.0/linux-x64/CaseJuri.Application.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/obj/Release/net10.0/linux-x64/refint/CaseJuri.Application.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/obj/Release/net10.0/linux-x64/CaseJuri.Application.pdb
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/obj/Release/net10.0/linux-x64/ref/CaseJuri.Application.dll

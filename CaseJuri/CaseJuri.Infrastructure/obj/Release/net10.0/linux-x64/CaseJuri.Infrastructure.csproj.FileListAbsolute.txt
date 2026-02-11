@@ -1,0 +1,17 @@
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/bin/Release/net10.0/linux-x64/CaseJuri.Infrastructure.deps.json
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/bin/Release/net10.0/linux-x64/CaseJuri.Infrastructure.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/bin/Release/net10.0/linux-x64/CaseJuri.Infrastructure.pdb
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/bin/Release/net10.0/linux-x64/CaseJuri.Application.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/bin/Release/net10.0/linux-x64/CaseJuri.Domain.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/bin/Release/net10.0/linux-x64/CaseJuri.Application.pdb
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/bin/Release/net10.0/linux-x64/CaseJuri.Domain.pdb
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/obj/Release/net10.0/linux-x64/CaseJuri.Infrastructure.csproj.AssemblyReference.cache
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/obj/Release/net10.0/linux-x64/CaseJuri.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/obj/Release/net10.0/linux-x64/CaseJuri.Infrastructure.AssemblyInfoInputs.cache
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/obj/Release/net10.0/linux-x64/CaseJuri.Infrastructure.AssemblyInfo.cs
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/obj/Release/net10.0/linux-x64/CaseJuri.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/obj/Release/net10.0/linux-x64/CaseJuri.8983455E.Up2Date
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/obj/Release/net10.0/linux-x64/CaseJuri.Infrastructure.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/obj/Release/net10.0/linux-x64/refint/CaseJuri.Infrastructure.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/obj/Release/net10.0/linux-x64/CaseJuri.Infrastructure.pdb
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Infrastructure/obj/Release/net10.0/linux-x64/ref/CaseJuri.Infrastructure.dll

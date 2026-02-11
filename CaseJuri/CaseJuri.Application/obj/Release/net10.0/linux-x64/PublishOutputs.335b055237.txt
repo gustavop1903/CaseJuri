@@ -1,0 +1,10 @@
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/publish/CaseJuri.Application.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/publish/CaseJuri.Application.deps.json
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/publish/CaseJuri.Application.pdb
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/publish/AutoMapper.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/publish/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/publish/Microsoft.Extensions.Options.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/publish/Microsoft.Extensions.Primitives.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/publish/CaseJuri.Domain.dll
+/Users/gustavopereira/Documents/Projetos/CaseJuri/CaseJuri/CaseJuri.Application/bin/Release/net10.0/linux-x64/publish/CaseJuri.Domain.pdb
